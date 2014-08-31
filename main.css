@@ -1,0 +1,12 @@
+/**
+ * CSS for makerparty
+ */
+body{
+	margin-left: 5%;
+	background-color: cyan;
+}
+
+#content{
+	border-top: 2px solid #fff;
+	
+}
